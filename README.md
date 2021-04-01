@@ -1,2 +1,2 @@
-# 01_Cpp
+# 01_C++
 contains C++ projects, algorithms, etc..
